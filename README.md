@@ -4,7 +4,7 @@
 This repository includes the pilot analysis for my PhD research (expected to start in Autumn 2027), focusing on the "Ecoantibio Paradox" in France. 
 
 ### The Problem: The Ecoantibio Paradox
-Despite a reduction in colistin use in the French bovine sector, phenotypic resistance has increased since 2019. This suggests that usage reduction alone is insufficient to eliminate colistin-resistant reservoirs. 
+Despite a reduction in colistin use in the French bovine sector, phenotypic resistance has increased since 2019. This suggests that usage reduction policy alone is insufficient to eliminate colistin-resistant reservoirs. 
 
 ### My Hypothesis: The Genetic Trap
 I hypothesize an evolutionary "plasmid-to-chromosome transition" driven by the substitution of colistin with Category D antibiotics (trimethoprim-sulfonamides). 
